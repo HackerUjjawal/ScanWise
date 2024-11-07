@@ -1,7 +1,7 @@
 # ScanWise - Automated Security Scanning Tool
 
 <p align="center">
-  <img src="scanwise_logo.png" alt="ScanWise Logo" width="200"/>
+  <img src="ScanWise.png" alt="ScanWise Logo" width="200"/>
 </p>
 
 ## Description
