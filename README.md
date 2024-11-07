@@ -40,7 +40,7 @@ ScanWise is an automated security scanning tool that combines multiple popular s
   - dnsrecon
   - wapiti
   
-##Future Improvements
+## Future Improvements
 
 - Add more scanning tools
 - Implement concurrent scanning
