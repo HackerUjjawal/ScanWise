@@ -6,7 +6,7 @@
 
 ## Description
 
-ScanWise is an automated security scanning tool that combines multiple popular security scanning tools into a single, easy-to-use interface. Developed by Ujjawal Tripathi, this tool streamlines the process of conducting security assessments by providing a centralized platform for running various types of scans.
+ScanWise is an automated security scanning tool that combines multiple popular security scanning tools into a single, easy-to-use interface. Developed by Ujjawal Kumar Tripathi, this tool streamlines the process of conducting security assessments by providing a centralized platform for running various types of scans.
 
 ## Features
 
@@ -55,7 +55,7 @@ ScanWise is an automated security scanning tool that combines multiple popular s
 This tool is for educational and ethical testing purposes only. The developer assumes no liability for misuse or damage caused by this program. Always ensure you have explicit permission to scan any systems or networks.
 
 ## Author
-Ujjawal Tripathi
+Ujjawal Kumar Tripathi
 ( Cyber Security Researcher )
 
 ## Acknowledgments
